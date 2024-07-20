@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alejandro-Urriago
-- 👀 I’m interested in financial data science applied in investment management 
+- 👀 I’m interested in data science and data engineering applied in investment management 
 - 🌱 I’m currently worrking as data analytics consultant
-- 💞️ I’m looking to collaborate on financial data science projects
+- 💞️ I’m looking to collaborate on financial data science projects and high frecuency trading.
 - 📫 How to reach me : aurriago@gmail.com
 
 <!---
